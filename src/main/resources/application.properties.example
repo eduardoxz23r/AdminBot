@@ -1,0 +1,17 @@
+spring.application.name=AdminBot
+
+# Discord
+discord.token=SEU_TOKEN_AQUI
+discord.guild-id=SEU_GUILD_ID_AQUI
+
+# Canal IA
+discord.canal-ia-id=SEU_CANAL_IA_AQUI
+
+# Canal Boas Vindas
+discord.canal-boas-vindas-id=SEU_CANAL_BOASVINDAS_AQUI
+
+# Canal Scrims
+discord.canal-scrim-id=SEU_CANAL_SCRIMS_AQUI
+
+# Grok API
+groq.api-key=SUA_CHAVE_AQUI
